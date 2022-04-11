@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dl.example.linktree">
+
+    <application
+        android:name=".LinkTreeApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_logo"
+        android:supportsRtl="true">
+        <activity
+            android:name=".view.SplashActivity"
+            android:exported="true"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".view.GuideActivity"
+            android:exported="false"
+            android:label="@string/title_activity_guide"
+            android:theme="@style/Theme.Linktree" />
+        <activity
+            android:name=".view.MainActivity"
+            android:exported="false"
+            android:label="@string/title_activity_start"
+            android:theme="@style/Theme.Linktree" />
+    </application>
+
+</manifest>

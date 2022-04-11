@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Splash" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="Theme.Linktree" parent="android:Theme.Material.Light.NoActionBar">
+        <!--设置透明-->
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--留出状态栏padding-->
+        <!--        <item name="android:fitsSystemWindows">true</item>-->
+    </style>
+</resources>

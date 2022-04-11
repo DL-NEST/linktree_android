@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project/Android/linktree/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2145" />
+        <entry key="..\:/project/Android/linktree/app/src/main/res/drawable/ic_board_bottom.xml" value="0.129" />
+        <entry key="..\:/project/Android/linktree/app/src/main/res/drawable/ic_device_bottom.xml" value="0.1105" />
+        <entry key="..\:/project/Android/linktree/app/src/main/res/drawable/ic_func_bottom.xml" value="0.1105" />
+        <entry key="..\:/project/Android/linktree/app/src/main/res/drawable/ic_list.xml" value="0.1" />
+        <entry key="..\:/project/Android/linktree/app/src/main/res/drawable/ic_logo.xml" value="0.2145" />
+        <entry key="..\:/project/Android/linktree/app/src/main/res/drawable/ic_notice_off.xml" value="0.1" />
+        <entry key="..\:/project/Android/linktree/app/src/main/res/drawable/ic_notice_on.xml" value="0.1" />
+        <entry key="..\:/project/Android/linktree/app/src/main/res/drawable/ic_rules_bottom.xml" value="0.1105" />
+        <entry key="..\:/project/Android/linktree/app/src/main/res/drawable/ic_setup_bottom.xml" value="0.129" />
+        <entry key="..\:/project/Android/linktree/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2145" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="linktree.app" />
+      </set>
+    </option>
+  </component>
+</project>
